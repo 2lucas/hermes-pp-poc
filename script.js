@@ -169,7 +169,7 @@ let urlIndex = 0; // Índice para alternar entre as URLs
 
 
 const urls = [
-    "https://www.paypal.com/webapps/hermes?token=5PP096596X573441L&useraction=commit&wpsFlowRedirectToXorouterSkipHermesStartTime=1744063456769&flowType=WPS&mfid=1744063456472_f2563111456bc&onfocus=#payment-submit-btn"
+    "https://www.paypal.com/webapps/hermes?token=43D07615TG870441G&useraction=commit&wpsFlowRedirectToXorouterSkipHermesStartTime=1744081111654&flowType=WPS&mfid=1744081111303_f371256226157&onfocus=#payment-submit-btn"
 
 ];
 
